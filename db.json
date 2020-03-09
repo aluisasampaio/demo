@@ -1,7 +1,9 @@
 {
   "ids": [
-    { "id": "a1b2c3", "preferredRange": "pets", "favouritePet": "cat" },
-    { "id": "d4e5f6", "preferredRange": "pets", "favouritePet": "dog" },
-    { "id": "g7h8i9", "preferredRange": "plants",  "favouritePlant": "Bonsai" }
+    { "id": "a1b2c3", "firstname":"Geralt", "preferredRange": "pets", "favouritePet": "Cat" },
+    { "id": "d4e5f6", "firstname":"Jennifer", "preferredRange": "pets", "favouritePet": "Dog" },
+    { "id": "g7h8i9", "firstname":"Cirilla", "preferredRange": "plants",  "favouritePlant": "Bonsai" }
+    { "id": "j10k11", "firstname":"Vasemir", "preferredRange": "Games",  "favouriteGame": "The Witcher" }
+    { "id": "m2n1o3", "firstname":"Keira", "preferredRange": "Games",  "favouriteGame": "Zelda" }
   ]
 }
