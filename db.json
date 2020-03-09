@@ -1,9 +1,36 @@
 {
   "ids": [
-    { "id": "a1b2c3", "firstname":"Geralt", "preferredRange": "pets", "favouriteProduct": "Cat", "imgUrl":"https://unsplash.com/photos/gKXKBY-C-Dk" },
-    { "id": "d4e5f6", "firstname":"Jennifer", "preferredRange": "pets", "favouriteProduct": "Dog", "imgUrl":"https://unsplash.com/photos/UtrE5DcgEyg" },
-    { "id": "g7h8i9", "firstname":"Cirilla", "preferredRange": "plants",  "favouriteProduct": "Bonsai", "imgUrl":"https://unsplash.com/photos/TYUS-cXzy50" }
-    { "id": "j10k11", "firstname":"Vasemir", "preferredRange": "Games",  "favouriteProduct": "The Witcher", "imgUrl":"https://unsplash.com/photos/Ggt3N2vHqNE" }
-    { "id": "m2n1o3", "firstname":"Keira", "preferredRange": "Games",  "favouriteProduct": "Zelda", "imgUrl":"https://unsplash.com/photos/MAqmEdUCq4k" }
+    { "id": "a1b2c3",
+     "firstname":"Geralt",
+     "preferredRange": "pets",
+     "favouriteProduct": "Cat",
+     "imgUrl":"https://unsplash.com/photos/gKXKBY-C-Dk" 
+    },
+    { "id": "d4e5f6",
+     "firstname":"Jennifer", 
+     "preferredRange": "pets", 
+     "favouriteProduct": "Dog",
+     "imgUrl":"https://unsplash.com/photos/UtrE5DcgEyg"
+    },
+    { "id": 
+     "g7h8i9", 
+     "firstname":"Cirilla", 
+     "preferredRange": "plants", 
+     "favouriteProduct": "Bonsai", 
+     "imgUrl":"https://unsplash.com/photos/TYUS-cXzy50" 
+    },
+    { "id": "j10k11",
+     "firstname":"Vasemir", 
+     "preferredRange": "Games",
+     "favouriteProduct": "The Witcher", 
+     "imgUrl":"https://unsplash.com/photos/Ggt3N2vHqNE" 
+    },
+    { 
+      "id": "m2n1o3",
+      "firstname":"Keira",
+      "preferredRange": "Games",
+      "favouriteProduct": "Zelda",
+      "imgUrl":"https://unsplash.com/photos/MAqmEdUCq4k"
+    }
   ]
 }
